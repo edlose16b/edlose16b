@@ -1,4 +1,4 @@
-# Hi 👋, my name is Edwin 💙
+# Hi 👋, I'm Edwin 💙
 
 I am a mobile engineer with 5+ years of industry experience building  applications.
 
