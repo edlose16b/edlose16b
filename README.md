@@ -1,6 +1,6 @@
 # Hi 👋, I'm Edwin 💙
 
-I am a mobile engineer with 5+ years of industry experience building  applications.
+I am a mobile developer.
 
 
 
